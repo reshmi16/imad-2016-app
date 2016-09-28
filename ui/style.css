@@ -19,3 +19,9 @@ body {
 .img-medium {
     height: 200px;
 }
+div
+{
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+}
